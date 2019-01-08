@@ -1,0 +1,47 @@
+#html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#card {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid gray;
+  box-shadow: 5px 5px rgba(119, 101, 101, 0.3);
+}
+
+.title {
+  font-weight: bold;
+  color: rgb(101, 67, 33);
+}
+
+#picture {
+  width: 300px;
+  height: 200px;
+  }
+
+#card-info {
+  margin: 0px;
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+  #fact {
+    font-style: italic;
+    font-size: 115%;
+    color: rgb(153, 51, 0);
+  }
+
+.label {
+  font-weight: bold;
+}
+
+#list {
+  list-style: none;
+  padding: 0px;
+  color: rgb(153, 51, 0);
+}
+
+#description {
+  text-align:justify;
+  color: rgb(153, 51, 0);
+}
